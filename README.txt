@@ -1,0 +1,4 @@
+C'è la classe Atleta che preveda la memorizzazione del nome, cognome, data di nascita, altezza e peso dell'atleta. 
+C'è la classe Giocatore che rappresenta un giocatore di una squadra di calcetto e tiene memorizzato i dati della classe atleti e in più memorizza il numero di maglia, il ruolo, il piede preferito e i goal fatti nella partita corrente.
+Ci sono due classi squadra, che rappresentano due squadre con il loro nominativo s1 e s2 di calcetto e hanno 5 giocatori.
+Alla fine c'è la classe partita che deve aver memorizzato le due squadre, poi fare un metodo che deve estrarre per 10 volte uno dei giocatori delle squadre e considerare che quel giocatore abbia fatto un goal e incrementare sui gol fatti di quella partita. Alla fine creare un metodo che riporti l'MPV della partita, cioè il giocatore che ha fatto più gol nella partita corrente, deve stampare a schermo il nome, cognome e numero di maglia del o dei giocatori.
